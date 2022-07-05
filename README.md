@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Moniesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=monieshravichandrran&show_icons=true&theme=radical)
-<br />
+<div align="center">![Moniesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=monieshravichandrran&show_icons=true&theme=radical)</div>
+<br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monieshravichandrran)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working as a Full Stack Developer Intern At RocketLane
