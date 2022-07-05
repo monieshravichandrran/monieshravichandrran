@@ -4,8 +4,9 @@
 <br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monieshravichandrran)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 I’m currently working as a Full Stack Developer Intern At RocketLane
-<img align="center" src="https://yt3.ggpht.com/ytc/AKedOLQZlNQqTwgU8uQNB44lB7K55G0XQkmlB6xZx6SI=s900-c-k-c0x00ffffff-no-rj" width=40 height=40/>
+<h2>🔭 I’m currently working as a Full Stack Developer Intern At RocketLane</h2>
+<br />
+<img align="center" src="https://yt3.ggpht.com/ytc/AKedOLQZlNQqTwgU8uQNB44lB7K55G0XQkmlB6xZx6SI=s900-c-k-c0x00ffffff-no-rj" width=400 height=400/>
 - 🌱 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
