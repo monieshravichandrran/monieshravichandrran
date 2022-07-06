@@ -43,3 +43,4 @@
 
 <a href="https://in.linkedin.com/in/moniesh" target="_blank"><img src="./lin.png" height="35" width="35"/></a>
 <a href="https://twitter.com/iammoniesh208" target="_blank"><img src="./tweet.jpeg" height="35" width="35"/></a>
+<a href="https://www.instagram.com/iammoniesh208/" target="_blank"><img src="./insta.webp" height="35" width="35"/></a>
