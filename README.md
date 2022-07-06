@@ -40,3 +40,5 @@
 <br>
 
 - 📫 How to reach me: ...
+
+<a href="https://in.linkedin.com/in/moniesh" target="_blank"><img src="./lin.png" height={75} width={75}/></a>
